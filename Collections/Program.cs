@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//using FigureCollections;
+using FigureCollections;
 
 namespace Collections
 {
@@ -248,7 +248,7 @@ namespace Collections
 			#endregion
 
 			#region Figures
-			/*
+			
 			PrintMessage("Сортировка ссылочных типов", 10);
 			//Создание объектов классов фигур:
 			Rectangle rect = new Rectangle(5, 4);
@@ -270,7 +270,7 @@ namespace Collections
 
 			PrintMessage("После сортировки:", 14);
 			foreach (var x in fl) Console.WriteLine(x);
-			*/
+			
 			#endregion
 
 			Console.ReadLine();

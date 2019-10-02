@@ -21,3 +21,16 @@ D:\GIT\Collection\Collections\obj\Debug\Collections.pdb
 D:\git\Collection\Collections\bin\Debug\System.ValueTuple.dll
 D:\git\Collection\Collections\bin\Debug\System.ValueTuple.xml
 D:\git\Collection\Collections\obj\Debug\Collections.csproj.CopyComplete
+D:\git\Collections2\Collections\bin\Debug\Collections.exe.config
+D:\git\Collections2\Collections\bin\Debug\Collections.exe
+D:\git\Collections2\Collections\bin\Debug\Collections.pdb
+D:\git\Collections2\Collections\bin\Debug\FigureCollections.exe
+D:\git\Collections2\Collections\bin\Debug\System.ValueTuple.dll
+D:\git\Collections2\Collections\bin\Debug\FigureCollections.pdb
+D:\git\Collections2\Collections\bin\Debug\FigureCollections.exe.config
+D:\git\Collections2\Collections\bin\Debug\System.ValueTuple.xml
+D:\git\Collections2\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+D:\git\Collections2\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+D:\git\Collections2\Collections\obj\Debug\Collections.csproj.CopyComplete
+D:\git\Collections2\Collections\obj\Debug\Collections.exe
+D:\git\Collections2\Collections\obj\Debug\Collections.pdb
