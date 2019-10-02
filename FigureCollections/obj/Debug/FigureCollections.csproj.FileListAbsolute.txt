@@ -1,0 +1,12 @@
+D:\root\yura\institute\!!!_internet\пособие_2015\!!!__КОРРЕКТИРОВКА_2017\!__ДЛЯ_СДАЧИ\ДИСК\примеры\11\FigureCollections\FigureCollections\bin\Debug\FigureCollections.exe.config
+D:\root\yura\institute\!!!_internet\пособие_2015\!!!__КОРРЕКТИРОВКА_2017\!__ДЛЯ_СДАЧИ\ДИСК\примеры\11\FigureCollections\FigureCollections\bin\Debug\FigureCollections.exe
+D:\root\yura\institute\!!!_internet\пособие_2015\!!!__КОРРЕКТИРОВКА_2017\!__ДЛЯ_СДАЧИ\ДИСК\примеры\11\FigureCollections\FigureCollections\bin\Debug\FigureCollections.pdb
+D:\root\yura\institute\!!!_internet\пособие_2015\!!!__КОРРЕКТИРОВКА_2017\!__ДЛЯ_СДАЧИ\ДИСК\примеры\11\FigureCollections\FigureCollections\obj\Debug\FigureCollections.exe
+D:\root\yura\institute\!!!_internet\пособие_2015\!!!__КОРРЕКТИРОВКА_2017\!__ДЛЯ_СДАЧИ\ДИСК\примеры\11\FigureCollections\FigureCollections\obj\Debug\FigureCollections.pdb
+D:\OSP-папа\ИУ5\2019\примеры\11\FigureCollections\FigureCollections\bin\Debug\FigureCollections.exe.config
+D:\OSP-папа\ИУ5\2019\примеры\11\FigureCollections\FigureCollections\bin\Debug\FigureCollections.exe
+D:\OSP-папа\ИУ5\2019\примеры\11\FigureCollections\FigureCollections\bin\Debug\FigureCollections.pdb
+D:\OSP-папа\ИУ5\2019\примеры\11\FigureCollections\FigureCollections\obj\Debug\FigureCollections.csprojAssemblyReference.cache
+D:\OSP-папа\ИУ5\2019\примеры\11\FigureCollections\FigureCollections\obj\Debug\FigureCollections.csproj.CoreCompileInputs.cache
+D:\OSP-папа\ИУ5\2019\примеры\11\FigureCollections\FigureCollections\obj\Debug\FigureCollections.exe
+D:\OSP-папа\ИУ5\2019\примеры\11\FigureCollections\FigureCollections\obj\Debug\FigureCollections.pdb
