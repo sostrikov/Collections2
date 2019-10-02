@@ -50,16 +50,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="packages.config" />
+    <None Include="packages.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
-<<<<<<< HEAD
   <ItemGroup>
     <ProjectReference Include="..\FigureCollections\FigureCollections.csproj">
       <Project>{0cf196e6-77f4-40e0-83ba-b8c2bd08706c}</Project>
       <Name>FigureCollections</Name>
     </ProjectReference>
   </ItemGroup>
-=======
->>>>>>> d3b2a13c0089053da0dc68b727dc577ce2927860
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

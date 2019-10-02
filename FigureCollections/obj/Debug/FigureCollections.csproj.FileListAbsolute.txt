@@ -10,3 +10,10 @@ D:\OSP-папа\ИУ5\2019\примеры\11\FigureCollections\FigureCollections
 D:\OSP-папа\ИУ5\2019\примеры\11\FigureCollections\FigureCollections\obj\Debug\FigureCollections.csproj.CoreCompileInputs.cache
 D:\OSP-папа\ИУ5\2019\примеры\11\FigureCollections\FigureCollections\obj\Debug\FigureCollections.exe
 D:\OSP-папа\ИУ5\2019\примеры\11\FigureCollections\FigureCollections\obj\Debug\FigureCollections.pdb
+D:\git\Collections2\FigureCollections\bin\Debug\FigureCollections.exe.config
+D:\git\Collections2\FigureCollections\bin\Debug\FigureCollections.exe
+D:\git\Collections2\FigureCollections\bin\Debug\FigureCollections.pdb
+D:\git\Collections2\FigureCollections\obj\Debug\FigureCollections.csprojAssemblyReference.cache
+D:\git\Collections2\FigureCollections\obj\Debug\FigureCollections.csproj.CoreCompileInputs.cache
+D:\git\Collections2\FigureCollections\obj\Debug\FigureCollections.exe
+D:\git\Collections2\FigureCollections\obj\Debug\FigureCollections.pdb
